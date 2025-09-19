@@ -1,8 +1,12 @@
 # The Collapse of Coherence Series
 
+**Link 1**
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16966863.svg)](https://doi.org/10.5281/zenodo.16966863)
 
-IPFS File link - https://ipfs.io/ipns/k51qzi5uqu5dgr340l54odlkkd25iioz2nmvni73exurkn8clgi2fewnpl3k4u
+
+**Link 2**
+IPNS (Decentralized Link via IPFS) - https://ipfs.io/ipns/k51qzi5uqu5dgr340l54odlkkd25iioz2nmvni73exurkn8clgi2fewnpl3k4u
+Immutable, censorship-resistant, and accessible globally via the InterPlanetary File System (IPFS)
 
 
 This repository serves as the public landing page for the *Collapse of Coherence* whitepaper series.  
