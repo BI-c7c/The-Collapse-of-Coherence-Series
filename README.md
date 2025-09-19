@@ -1,22 +1,21 @@
 # The Collapse of Coherence Series
 
-**Link 1**
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16966863.svg)](https://doi.org/10.5281/zenodo.16966863)
-
-
-**Link 2**
-IPNS (Decentralized Link via IPFS) - https://ipfs.io/ipns/k51qzi5uqu5dgr340l54odlkkd25iioz2nmvni73exurkn8clgi2fewnpl3k4u
-Immutable, censorship-resistant, and accessible globally via the InterPlanetary File System (IPFS)
-
-
 This repository serves as the public landing page for the *Collapse of Coherence* whitepaper series.  
 The canonical archive and permanent DOI are hosted on [Zenodo](https://doi.org/10.5281/zenodo.16966863).
 
 
 ## Current Whitepapers
 
-- **Collapse of Coherence — Systemic Failure of Humanity** (August 27, 2025)  
+- **Whitepaper 1 - Collapse of Coherence — Systemic Failure of Humanity** (August 27, 2025)  
   [➡ Permanent DOI Link](https://doi.org/10.5281/zenodo.16966863)
+
+  **Link 1**
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16966863.svg)](https://doi.org/10.5281/zenodo.16966863)
+
+
+**Link 2**
+IPNS (Decentralized Link via IPFS) - https://ipfs.io/ipns/k51qzi5uqu5dgr340l54odlkkd25iioz2nmvni73exurkn8clgi2fewnpl3k4u
+Immutable, censorship-resistant, and accessible globally via the InterPlanetary File System (IPFS)
 
 *(Future whitepapers — will be linked here as they are released.)*
 
