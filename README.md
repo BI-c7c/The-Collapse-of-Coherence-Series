@@ -15,6 +15,7 @@ The canonical archive and permanent DOI are hosted on [Zenodo](https://doi.org/1
 
   **Link 2**
 IPNS (Decentralized Link via IPFS) - https://ipfs.io/ipns/k51qzi5uqu5dgr340l54odlkkd25iioz2nmvni73exurkn8clgi2fewnpl3k4u
+
 Immutable, censorship-resistant, and accessible globally via the InterPlanetary File System (IPFS)
 
 *(Future whitepapers — will be linked here as they are released.)*
